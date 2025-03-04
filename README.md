@@ -20,4 +20,4 @@ Asset-x is a simple banking system API that allows users to register with a user
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/asset-x.git
+   git clone https://github.com/aditya/asset-x.git
